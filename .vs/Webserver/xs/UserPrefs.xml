@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{7C584F76-C76F-4FF8-B7FF-2D2E6D332273}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/ISubordinateFeature.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="10" Column="15" />
+      <File FileName="Startup.cs" />
+      <File FileName="Repository/ISocialiteDatabaseSettings.cs" Line="1" Column="1" />
+      <File FileName="Repository/UserService.cs" Line="52" Column="13" />
+      <File FileName="Models/User.cs" />
+      <File FileName="Repository/ISubordinateFeature.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Webserver" expanded="True">
+            <Node name="Webserver" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="ISubordinateFeature.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Webserver PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
